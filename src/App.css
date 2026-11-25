@@ -1,0 +1,27 @@
+.numero {
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 8px 0;
+}
+
+.botones {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+small {
+  color: #777;
+}
+
+.error {
+  color: #c0392b;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+li {
+  margin: 4px 0;
+}
